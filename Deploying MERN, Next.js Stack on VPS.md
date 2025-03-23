@@ -1,7 +1,3 @@
-I'll improve your text to make it more polished, organized, and professional while keeping all the essential information intact. Here's the refined version:
-
----
-
 # Deploying a MERN Stack Project on Hostinger VPS
 
 This detailed guide provides step-by-step instructions to deploy a MERN (MongoDB, Express, React, Node.js) stack project on a Hostinger VPS. It also covers configuring Nginx as a reverse proxy, setting up SSL certificates, and deploying both React and Next.js frontends.
