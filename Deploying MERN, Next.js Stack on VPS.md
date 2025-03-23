@@ -207,10 +207,6 @@ pm2 save
 
 ---
 
-Sure! Here’s a more detailed version of the **Configuring Nginx as a Reverse Proxy** section, with explanations, commands, and configurations for both frontend apps and backend services:
-
----
-
 ## **5. Configuring Nginx as a Reverse Proxy**  
 
 Nginx will act as a reverse proxy to route incoming client requests to both your frontend and backend applications. This setup improves security, simplifies routing, and enhances performance by managing all requests through a single entry point.
